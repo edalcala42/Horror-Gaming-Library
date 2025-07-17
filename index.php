@@ -32,45 +32,10 @@
             <img src="recursos/imagenes/video5.gif" alt="" class="centered" width="450" height="350">
         </div> 
 
-        <div class="table-container">
-            <h3>Top de juegos</h3>
-            <table class="styled-table-index">
-                <thead>
-                    <tr>
-                        <th>Juego</th>
-                        <th>Categoría</th>
-                        <th>Precio</th>
-                        <th>Fecha de lanzamiento</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>Silent Hill 2</td>
-                        <td>Terror Psicológico</td>
-                        <td>$39.99</td>
-                        <td>24 de septiembre de 2001</td>
-                    </tr>
-                    <tr>
-                        <td>Resident Evil 2</td>
-                        <td>Terror Inmersivo</td>
-                        <td>$59.99</td>
-                        <td>25 de enero de 2019</td>
-                    </tr>
-                    <tr>
-                        <td>Doki Doki Literature Club</td>
-                        <td>Terror Existencial</td>
-                        <td>Gratis</td>
-                        <td>22 de septiembre de 2017</td>
-                    </tr>
-                    <tr>
-                        <td>Amnesia: The Dark Descent</td>
-                        <td>Terror Inmersivo</td>
-                        <td>$19.99</td>
-                        <td>8 de septiembre de 2010</td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
+        <audio controls="true" preload="none">
+            <source src="https://delightful-flower-0a5a40910.2.azurestaticapps.net//;stream.mp3" type="audio/mp3">Your browser does not support the audio element.
+        </audio>
+
     </div>
 
     <div class="slider">
